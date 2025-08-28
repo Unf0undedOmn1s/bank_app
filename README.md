@@ -1,4 +1,4 @@
-## This is a simple Python script that calculates your remaining balance after monthly expenses.
+## This is a simple Python script that calculates your remaining balance after your monthly expenses.
 - You will be prompted to enter your monthly income and each of the following expenses: 
   - Transport
   - Food and Groceries
